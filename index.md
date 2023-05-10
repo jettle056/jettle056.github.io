@@ -10,13 +10,13 @@ My GitHub page is https://github.com/jettle056.
 
 * Lab 1 
 
-Lab 1 was one of my favorites. It was my first time ever coding. It wasn't that hard but at the same time it was still challenging. 
+Lab 1 was one of my favorites, it was my first time learning how to code. With this lab, I was able to learn how to declare std::cout and make the output execute "Hello Jett!"
 
 ![Animated GIF of the terminal output compiling a C++ program and then executing the binary which prints the messaage "Hello Jett!".](gif/lab_one.gif)
 
 * Lab 5
 
-Lab 5, part 2 was one of my favorites. It was also one the most challenging labs I have ever done. However, I was able to write functions and make a program to play Blackjack.
+Lab 5, part 2 was one of my favorites. It was also one the most challenging labs I have ever done. However, I was able to write functions and make a program to play Blackjack using command line arguments. 
 
 ![Animated GIF of the terminal output compiling a C++ program and then executing the binary which prints out blackjack.](gif/lab_five.gif)
 
