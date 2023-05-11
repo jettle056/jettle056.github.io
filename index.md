@@ -10,7 +10,7 @@ My GitHub page is https://github.com/jettle056.
 
 * Lab 1 
 
-Lab 1 was one of my favorites, it was my first time learning how to code. With this lab, I was able to learn how to declare std::cout and make the output execute "Hello Jett!"
+Lab 1 was one of my favorites, it was my first time learning how to code. With this lab, I was able to learn how to declare std::cout and make the output execute "Hello Jett!" Looking at it now, it was a very simple task but at the time, it was very difficult because I did not know how to do std::cout.
 
 ![Animated GIF of the terminal output compiling a C++ program and then executing the binary which prints the messaage "Hello Jett!".](gif/lab_one.gif)
 
