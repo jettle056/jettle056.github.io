@@ -16,12 +16,12 @@ Lab 1 was one of my favorites, it was my first time learning how to code. With t
 
 * Lab 5
 
-Lab 5, part 2 was one of my favorites. It was also one the most challenging labs I have ever done. However, I was able to write functions and make a program to play Blackjack using command line arguments. 
+Lab 5, part 2 was one of my favorites. It provides functions to determine the type of card, calculate points for individual cards, check for a bust, and finally compute the score for the hand. I was able to write functions that computes how many cards you have on your hand and the value it has just like playing blackjack normally. 
 
 ![Animated GIF of the terminal output compiling a C++ program and then executing the binary which prints out blackjack.](gif/lab_five.gif)
 
 * Lab 6
 
-Lab 6, part 2 was one of my favorites. With the past labs, I was able to use those experience to be able to write the functions of calculating the average given as command-line arguments. This was a very great experience. 
+Lab 6, part 2 was one of my favorites. The program utilizes the arithmetic mean formula to compute the average accurately, using floating-point arithmetic to handle decimal values. I was able to understand how to use the if(arguments.size) so that the program knows what do I need to input. 
 
 ![Animated GIF of the terminal output compiling a C++ program and then executing the binary which prints out the average.](gif/lab_six.gif)
